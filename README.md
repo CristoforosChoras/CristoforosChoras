@@ -1,5 +1,5 @@
 ## Hi there 👋
----
+
 #### _My name_ is Cristoforos Choras 
 ---
 - 🧑‍🎓 I’m currently student at DCI
