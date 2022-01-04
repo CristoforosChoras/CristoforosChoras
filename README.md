@@ -6,5 +6,4 @@
 - 👯 I’m looking to collaborate on every project 
 - 👨‍💻 Love coding!!!
 - 💬 Ask me about anything
-- 📫 How to reach me:[e-mail](Christopher.choras@yahoo.com
-)
+- 📫 How to reach me:Christopher.choras@yahoo.com
