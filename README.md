@@ -8,7 +8,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me:Christopher.choras@yahoo.com
 ---
-🔧 Technologies & Tools
+ ## 🔧  Technologies & Tools
+
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -22,7 +23,7 @@
 ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-## Githubstats ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Githubstats 
 
 ![graywhite](https://github-readme-stats.vercel.app/api?username=CristoforosChoras&showicons=true&hide=contribs,prs&cacheseconds=86400&theme=graywhite)
 
