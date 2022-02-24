@@ -1,4 +1,4 @@
-## Hi there 👋
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### _My name_ is Cristoforos Choras 
 ---
@@ -9,7 +9,6 @@
 - 📫 How to reach me:Christopher.choras@yahoo.com
 ---
 🔧 Technologies & Tools
-
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -22,3 +21,10 @@
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
+## Githubstats ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![graywhite](https://github-readme-stats.vercel.app/api?username=CristoforosChoras&showicons=true&hide=contribs,prs&cacheseconds=86400&theme=graywhite)
+
+
+
