@@ -7,12 +7,13 @@
 - 👨‍💻 Love coding!!!
 - 💬 Ask me about anything
 - 📫 How to reach me:Christopher.choras@yahoo.com
----
+<hr>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-
+<div align=center>
+  
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -24,6 +25,7 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 <p align=center>
   <div align=center>
@@ -45,8 +47,11 @@
 </p>
 
 <h2 align="center">⚡ Social Media ⚡</h2>
-<hr>
+
+<div align=center>
+  
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+ 
 
