@@ -23,7 +23,7 @@
 ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-## Githubstats 
+## Github stats 
 
 ![graywhite](https://github-readme-stats.vercel.app/api?username=CristoforosChoras&showicons=true&hide=contribs,prs&cacheseconds=86400&theme=graywhite)
 
