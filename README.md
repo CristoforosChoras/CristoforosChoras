@@ -25,7 +25,10 @@
 
 ## Github stats 
 
-![graywhite](https://github-readme-stats.vercel.app/api?username=CristoforosChoras&showicons=true&hide=contribs,prs&cacheseconds=86400&theme=graywhite)
+| <a href="https://github.com/CristoforosChoras/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CristoforosChoras&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/CristoforosChoras/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristoforosChoras&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 
 
 
