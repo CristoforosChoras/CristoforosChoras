@@ -39,7 +39,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristoforosChoras&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CristoforosChoras&bg_color=080708&color=0527b3&line=1135a2&point=030303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </a>
   </div>
   <br>
