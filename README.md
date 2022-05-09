@@ -38,12 +38,14 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CristoforosChoras&bg_color=080708&color=0527b3&line=1135a2&point=030303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    </a>
+    <a href="https://github.com/CristoforosChoras/github-readme-stats">
+      
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CristoforosChoras&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+    
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=CristoforosChoras&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <h2 align="center">⚡ Social Media ⚡</h2>
